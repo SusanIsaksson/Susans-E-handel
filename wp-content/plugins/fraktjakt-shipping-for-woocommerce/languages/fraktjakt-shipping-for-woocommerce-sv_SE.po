@@ -1,0 +1,528 @@
+# Copyright (C) 2015 Fraktjakt Shipping Method for WooCommerce
+# This file is distributed under the same license as the Fraktjakt Shipping Method for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fraktjakt Shipping Method for WooCommerce 1.8.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fraktjakt-"
+"shipping-for-woocommerce\n"
+"POT-Creation-Date: 2020-08-31 09:33+0200\n"
+"PO-Revision-Date: 2020-08-31 09:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: fraktjakt-woocommerce-shipping.php:38 fraktjakt-woocommerce-shipping.php:86
+#: fraktjakt-woocommerce-shipping.php:171
+#: fraktjakt-woocommerce-shipping.php:1542
+msgid "Fraktjakt"
+msgstr "Fraktjakt"
+
+#: fraktjakt-woocommerce-shipping.php:77
+msgid "Enable/Disable"
+msgstr "Aktivera/Inaktivera"
+
+#: fraktjakt-woocommerce-shipping.php:79
+msgid "Enable this shipping method"
+msgstr "Aktivera denna fraktmetod"
+
+#: fraktjakt-woocommerce-shipping.php:83 fraktjakt-woocommerce-shipping.php:168
+msgid "Method Title"
+msgstr "Metodens titel"
+
+#: fraktjakt-woocommerce-shipping.php:85
+msgid "This controls the title which the user sees during checkout."
+msgstr "Detta avser titeln som visas vid kassan."
+
+#: fraktjakt-woocommerce-shipping.php:127
+msgid "Fraktjakt [WARNING]"
+msgstr "Fraktjakt [VARNING]"
+
+#: fraktjakt-woocommerce-shipping.php:127
+msgid " products are missing weight or volume: "
+msgstr " produkter som saknar vikt eller volym: "
+
+#: fraktjakt-woocommerce-shipping.php:155
+msgid "Enable/disable "
+msgstr "Aktivera/Inaktivera "
+
+#: fraktjakt-woocommerce-shipping.php:157
+msgid "Enable the Fraktjakt Shipping Method"
+msgstr "Aktivera fraktintegreringen med Fraktjakt"
+
+#: fraktjakt-woocommerce-shipping.php:162
+msgid "Debug mode"
+msgstr "Felsökningsläge"
+
+#: fraktjakt-woocommerce-shipping.php:164
+msgid ""
+"Enable the Fraktjakt debug mode to track down products missing weight or "
+"volume.<br /> Please deactive before launching, since this action may "
+"significantly slow down your server."
+msgstr ""
+"Aktivera Fraktjakts felsökningsläge för att leta upp varor som saknar vikter "
+"och volymer.<br /> Var noga med att avaktivera denna funktion innan ni "
+"lanserar eftersom denna rutin kan sega ned er server markant."
+
+#: fraktjakt-woocommerce-shipping.php:170
+msgid "Enter the display title of the shipping method."
+msgstr ""
+"Ange titeln som visas i listan av fraktmetoder som finns tillgängliga till "
+"WooCommerce."
+
+#: fraktjakt-woocommerce-shipping.php:176
+msgid "Auto process"
+msgstr "Behandla automatiskt"
+
+#: fraktjakt-woocommerce-shipping.php:181
+msgid "No"
+msgstr "Nej"
+
+#: fraktjakt-woocommerce-shipping.php:182
+msgid "Processing"
+msgstr "Behandlas"
+
+#: fraktjakt-woocommerce-shipping.php:183
+msgid "Completed"
+msgstr "Färdigbehandlad"
+
+#: fraktjakt-woocommerce-shipping.php:185
+msgid ""
+"Choose which order status to automatically process and create shipments for."
+"<br>If Manual is selected, then no orders will be processed automatically "
+"and you can select which orders to send over to Fraktjakt manually."
+msgstr ""
+"Välj vilken order status som automatiskt skall behandlas och exporteras till "
+"Fraktjakt. <br>Om Nej är vald, så kommer inga ordrar att orderkopplas "
+"automatiskt så att du istället får hantera detta manuellt."
+
+#: fraktjakt-woocommerce-shipping.php:191
+msgid "Reference prefix"
+msgstr "Referensprefix"
+
+#: fraktjakt-woocommerce-shipping.php:192
+msgid "Specify a text to prefix the order reference below."
+msgstr "Ange texten som föregår er orderreferens nedan."
+
+#: fraktjakt-woocommerce-shipping.php:197
+msgid "Order reference"
+msgstr "Orderreferens"
+
+#: fraktjakt-woocommerce-shipping.php:202
+msgid "Order number"
+msgstr "Ordernummer"
+
+#: fraktjakt-woocommerce-shipping.php:203
+msgid "Customer note"
+msgstr "Kundanteckning"
+
+#: fraktjakt-woocommerce-shipping.php:205
+msgid "Select how to reference shipments to your WooCommerce orders."
+msgstr "Ange hur du vill referera frakter till dina WooCommerce-ordrar."
+
+#: fraktjakt-woocommerce-shipping.php:210
+msgid "Control mode"
+msgstr "Fraktstyrning"
+
+#: fraktjakt-woocommerce-shipping.php:215
+msgid "Customer controlled shipping"
+msgstr "Kundstyrd frakt"
+
+#: fraktjakt-woocommerce-shipping.php:216
+msgid "Merchant controlled shipping"
+msgstr "Butiksstyrd frakt"
+
+#: fraktjakt-woocommerce-shipping.php:218
+msgid ""
+"Choose whether it's the customer or the merchant who makes the shipping "
+"decision.<br>The settings under Shipping alternatives are only applicable to "
+"\"Customer controlled shipping\""
+msgstr ""
+"Välj om det är kunden eller säljaren som gör fraktvalen.<br>Inställningarna "
+"under fraktalternativ gäller endast för \"Kundstyrd frakt\""
+
+#: fraktjakt-woocommerce-shipping.php:223
+msgid "Operation Mode"
+msgstr "Driftläge"
+
+#: fraktjakt-woocommerce-shipping.php:226
+msgid ""
+"Select which server environment to use. Requires a registered account on the "
+"chosen server."
+msgstr "Välj servermiljö. Kräver registrerat konto i den valda servermiljön."
+
+#: fraktjakt-woocommerce-shipping.php:229
+msgid "Production"
+msgstr "Produktion (använd Fraktjakts skarpa servrar)"
+
+#: fraktjakt-woocommerce-shipping.php:230
+msgid "Test"
+msgstr "Test (använd Fraktjakts testserver)"
+
+#: fraktjakt-woocommerce-shipping.php:236
+msgid "Authentication"
+msgstr "Autentisering"
+
+#: fraktjakt-woocommerce-shipping.php:238
+msgid ""
+"Enter your Consignor ID and key from your Fraktjakt integration to connect "
+"this extension to your Fraktjakt account."
+msgstr ""
+"Ange din Consignor ID och Key från din Fraktjaktintegration för att koppla "
+"detta tillägg till ditt konto på Fraktjakt."
+
+#: fraktjakt-woocommerce-shipping.php:239
+msgid "Direct link to Fraktjakt PROD API webshop settings"
+msgstr "Direktlänk till webbutiksinställningarna i Fraktjakts PROD API"
+
+#: fraktjakt-woocommerce-shipping.php:244
+#: fraktjakt-woocommerce-shipping.php:267
+#: fraktjakt-woocommerce-shipping.php:725
+msgid "Consignor ID"
+msgstr "Consignor ID"
+
+#: fraktjakt-woocommerce-shipping.php:249
+#: fraktjakt-woocommerce-shipping.php:272
+msgid "Consignor Key"
+msgstr "Consignor Key"
+
+#: fraktjakt-woocommerce-shipping.php:253
+#: fraktjakt-woocommerce-shipping.php:276
+msgid "(Integrator code)"
+msgstr "(Integratörskod)"
+
+#: fraktjakt-woocommerce-shipping.php:255
+msgid ""
+"Integrator code for the production server (if supplied by your integrator)."
+msgstr ""
+"Integrator kod för produktionsservern (om detta tillhandahålls av din "
+"integrator)."
+
+#: fraktjakt-woocommerce-shipping.php:260
+msgid "Test authentication"
+msgstr "Testautentisering"
+
+#: fraktjakt-woocommerce-shipping.php:262
+msgid ""
+"Enter your Consignor ID and key from your test server integration to connect "
+"this extension to your Fraktjakt account."
+msgstr ""
+"Ange din Consignor ID och Key från din testintegration för att koppla detta "
+"tillägg till ditt konto på Fraktjakts testserver."
+
+#: fraktjakt-woocommerce-shipping.php:263
+msgid "Direct link to Fraktjakt TEST API webshop settings"
+msgstr "Direktlänk till webbutiksinställningarna i Fraktjakts TEST API"
+
+#: fraktjakt-woocommerce-shipping.php:278
+msgid "Integrator code for the test server (if supplied by your integrator)."
+msgstr ""
+"Integrator kod för testserver (om detta tillhandahålls av din integrator)."
+
+#: fraktjakt-woocommerce-shipping.php:285
+msgid "Shipping alternatives in customer controlled shipping"
+msgstr "Fraktalternativ vid kundstyrd frakt"
+
+#: fraktjakt-woocommerce-shipping.php:287
+msgid ""
+"Choose which information to display about each shipping alternative in the "
+"shipping calculator, cart and checkout."
+msgstr ""
+"Välj vilken information du vill visa för dina kunder om fraktalternativen i "
+"frakträknaren, kundvagnen och kassan."
+
+#: fraktjakt-woocommerce-shipping.php:291
+msgid "Shipping company"
+msgstr "Fraktbolag"
+
+#: fraktjakt-woocommerce-shipping.php:292
+msgid "Display shipping company names"
+msgstr "Visar fraktbolagens namn bland fraktalternativen"
+
+#: fraktjakt-woocommerce-shipping.php:298
+msgid "Shipping agent"
+msgstr "Fraktombud"
+
+#: fraktjakt-woocommerce-shipping.php:299
+msgid "Display Agent for package retrieval by the customer"
+msgstr "Visar information om mottagande fraktombud till dina kunder"
+
+#: fraktjakt-woocommerce-shipping.php:304
+msgid "Home delivery title"
+msgstr "Titel för hemleverans"
+
+#: fraktjakt-woocommerce-shipping.php:307
+msgid ""
+"Only shipping products which include Door-to-Door delivery will display this "
+"text.  <br>Displayed in the shipping alternatives customers see in the cart "
+"and in checkout."
+msgstr ""
+"Endast frakttjänster som inkluderar utkörning visar denna text för dina "
+"kunder."
+
+#: fraktjakt-woocommerce-shipping.php:308
+msgid "Door-to-Door delivery"
+msgstr "Utkörning"
+
+#: fraktjakt-woocommerce-shipping.php:311
+msgid "Estimated delivery time"
+msgstr "Uppskattad leveranstid"
+
+#: fraktjakt-woocommerce-shipping.php:313
+msgid "Display Fraktjakts estimated delivery time info"
+msgstr "Visar Fraktjakts uppskattade leveranstid"
+
+#: fraktjakt-woocommerce-shipping.php:319
+msgid "Currency conversion"
+msgstr "Valutaomvandling"
+
+#: fraktjakt-woocommerce-shipping.php:324
+msgid "Convert shipping costs to your selected currency"
+msgstr "Konvertera fraktpriser till din valda valuta"
+
+#: fraktjakt-woocommerce-shipping.php:325
+msgid "Always present shipping costs in SEK"
+msgstr "Visa alltid fraktpriser i SEK"
+
+#: fraktjakt-woocommerce-shipping.php:327
+msgid ""
+"Choose if you want Fraktjakt to automatically convert the shipping costs to "
+"your chosen currency in WooCommerce or if prices should always be shown in "
+"SEK."
+msgstr ""
+"Välj om du vill låta Fraktjakt automatiskt omvandla fraktpriserna till din "
+"förvalda valuta i WooCommerce eller om priserna alltid skall visas i SEK."
+
+#: fraktjakt-woocommerce-shipping.php:333
+msgid "Debugging and fallback options"
+msgstr "Felsökning och felsäkra alternativ"
+
+#: fraktjakt-woocommerce-shipping.php:335
+msgid ""
+"Set up fallback shipping options and email debug information if any error "
+"occurs."
+msgstr ""
+"Ange felsäkra fraktalternativ och skicka felinformation till din admin-email "
+"om något fel uppstår."
+
+#: fraktjakt-woocommerce-shipping.php:340
+msgid "Fallback service"
+msgstr "Felsäkert fraktalternativ"
+
+#: fraktjakt-woocommerce-shipping.php:342
+msgid ""
+"This text is shown together with a Fallback price when the webshop does not "
+"receive a prompt response from Fraktjakt, <br>for instance, when there is a "
+"communications problem over the internet."
+msgstr ""
+"Denna text visas tillsammans med priset som ett felsäkert alternativ om "
+"webshopen skulle misslyckas få ett svar från Fraktjakt."
+
+#: fraktjakt-woocommerce-shipping.php:343
+msgid "Standard shipping"
+msgstr "Standardfrakt"
+
+#: fraktjakt-woocommerce-shipping.php:346
+msgid "Fallback price"
+msgstr "Felsäkert fraktpris"
+
+#: fraktjakt-woocommerce-shipping.php:349
+msgid "The price that is shown together with the fallback text (above)."
+msgstr "Kostnaden för den angivna fallbacktjänsten (ovan)."
+
+#: fraktjakt-woocommerce-shipping.php:360
+msgid "Admin email address"
+msgstr "Admins emailadress"
+
+#: fraktjakt-woocommerce-shipping.php:362
+msgid ""
+"Error messages from the Fraktjakt Shipping Method will be sent to this email "
+"address."
+msgstr ""
+"Felmeddelanden från Fraktjakt kommer att skickas till denna emailadress."
+
+#: fraktjakt-woocommerce-shipping.php:401
+#: fraktjakt-woocommerce-shipping.php:577
+msgid "Fraktjakt Shipping Method [ERROR]"
+msgstr "Fraktjakts fraktmetod [FEL]"
+
+#: fraktjakt-woocommerce-shipping.php:618
+msgid "Agent"
+msgstr "Fraktombud"
+
+#: fraktjakt-woocommerce-shipping.php:639
+msgid "Arrival Time"
+msgstr "Leveranstid"
+
+#: fraktjakt-woocommerce-shipping.php:666
+msgid "This is an automated error message from your WooCommerce integration."
+msgstr ""
+"Detta är ett automatiserat felmeddelande från din WooCommerce-integration."
+
+#: fraktjakt-woocommerce-shipping.php:667
+msgid "Webshop"
+msgstr "Webbutik"
+
+#: fraktjakt-woocommerce-shipping.php:668
+msgid "Method"
+msgstr "Metodens"
+
+#: fraktjakt-woocommerce-shipping.php:669
+msgid "Function"
+msgstr "Funktion"
+
+#: fraktjakt-woocommerce-shipping.php:672
+msgid "Reason"
+msgstr "Anledning"
+
+#: fraktjakt-woocommerce-shipping.php:672
+msgid "Missing response.  Using the FALLBACK method."
+msgstr "Saknar svar. Använder det felsäkra fraktalternativet."
+
+#: fraktjakt-woocommerce-shipping.php:676
+msgid "Status"
+msgstr "Status"
+
+#: fraktjakt-woocommerce-shipping.php:679
+msgid "Warning"
+msgstr "Varning"
+
+#: fraktjakt-woocommerce-shipping.php:683
+#: fraktjakt-woocommerce-shipping.php:685
+msgid "Error"
+msgstr "Fel"
+
+#: fraktjakt-woocommerce-shipping.php:689
+msgid "Returned shipping options"
+msgstr "Returnerade fraktalternativ"
+
+#: fraktjakt-woocommerce-shipping.php:694
+msgid "Cart items"
+msgstr "Varor i kundvagn"
+
+#: fraktjakt-woocommerce-shipping.php:716
+msgid "Destination"
+msgstr "Destination"
+
+#: fraktjakt-woocommerce-shipping.php:716
+msgid "Postal code"
+msgstr "Postnummer"
+
+#: fraktjakt-woocommerce-shipping.php:717
+msgid "Country"
+msgstr "Land"
+
+#: fraktjakt-woocommerce-shipping.php:719
+msgid "Fallback"
+msgstr "Felsäkert alternativ"
+
+#: fraktjakt-woocommerce-shipping.php:719
+msgid "Title"
+msgstr "Titel"
+
+#: fraktjakt-woocommerce-shipping.php:720
+msgid "Price"
+msgstr "Pris"
+
+#: fraktjakt-woocommerce-shipping.php:722
+msgid "Time"
+msgstr "Tidpunkt"
+
+#: fraktjakt-woocommerce-shipping.php:726
+msgid "Server"
+msgstr "Server"
+
+#: fraktjakt-woocommerce-shipping.php:738
+#: fraktjakt-woocommerce-shipping.php:743
+msgid "Response"
+msgstr "Svar"
+
+#: fraktjakt-woocommerce-shipping.php:740
+msgid "Array"
+msgstr "Array"
+
+#: fraktjakt-woocommerce-shipping.php:743
+msgid "Missing response"
+msgstr "Saknar svar"
+
+#: fraktjakt-woocommerce-shipping.php:747
+msgid "Error message from Fraktjakt WooCommerce plugin."
+msgstr "Felmeddelande från Fraktjakts WooCommerce-tillägg."
+
+#: fraktjakt-woocommerce-shipping.php:757
+msgid "Debug info"
+msgstr "Felsökningsinformation"
+
+#: fraktjakt-woocommerce-shipping.php:771
+msgid "Shipping calculation error"
+msgstr "Ett fel har uppstått vid fraktberäkningen"
+
+#: fraktjakt-woocommerce-shipping.php:1580
+#: fraktjakt-woocommerce-shipping.php:1595
+#: fraktjakt-woocommerce-shipping.php:1672
+#: fraktjakt-woocommerce-shipping.php:1675
+msgid "Manage shipment"
+msgstr "Hantera frakten"
+
+#: fraktjakt-woocommerce-shipping.php:1580
+msgid "Manage the order in Fraktjakt"
+msgstr "Hantera ordern i Fraktjakt"
+
+#: fraktjakt-woocommerce-shipping.php:1595
+msgid "Manage the shipment in Fraktjakt"
+msgstr "Hantera frakten i Fraktjakt"
+
+#: fraktjakt-woocommerce-shipping.php:1607
+msgid "Order connection missing"
+msgstr "Orderkoppling saknas"
+
+#: fraktjakt-woocommerce-shipping.php:1688
+msgid "Create order connection to Fraktjakt"
+msgstr "Skapa orderkoppling till Fraktjakt"
+
+#. Plugin Name of the plugin/theme
+msgid "Fraktjakt Shipping Method for WooCommerce"
+msgstr "Fraktjakts fraktmetod för WooCommerce"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.fraktjakt.se"
+msgstr "https://www.fraktjakt.se"
+
+#. Description of the plugin/theme
+msgid ""
+"Fraktjakt shipping method plugin for WooCommerce. Integrates several "
+"shipping services through Fraktjakt."
+msgstr ""
+"Fraktjakts fraktmetod för WooCommerce. Integrerar flera frakttjänster i "
+"WooCommerce genom Fraktjakt."
+
+#. Author of the plugin/theme
+msgid "Fraktjakt AB (Sweden)"
+msgstr "Fraktjakt AB (Sverige)"
+
+#~ msgid "Consignor Id for the production server."
+#~ msgstr "Consignor Id för produktionsservern."
+
+#~ msgid "Consignor Key for the production server."
+#~ msgstr "Consignor Key för produktionsservern."
+
+#~ msgid "Consignor Id for the test server."
+#~ msgstr "Consignor Id för testservern."
+
+#~ msgid "Consignor Key for the test server."
+#~ msgstr "Consignor Key för testservern."
+
+#~ msgid ""
+#~ "Enable/disable display of the following attributes in the shipping "
+#~ "alternatives that customers see in the cart and in checkout."
+#~ msgstr ""
+#~ "Aktivera/avaktivera visningen av följande attribut för fraktalternativen "
+#~ "som dina kunder ser."
+
+#~ msgid "Label"
+#~ msgstr "Titel"

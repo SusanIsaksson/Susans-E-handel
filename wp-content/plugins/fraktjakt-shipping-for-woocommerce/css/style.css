@@ -1,0 +1,42 @@
+label[for^="shipping_method_0_fraktjakt"] {
+    display: inline !important;
+}
+
+
+.wc_actions .fraktjakt-create-order-connection:after {	
+
+	content: "\1f517" !important;
+
+}
+
+
+
+.wc_actions .fraktjakt-handle-shipment:after {	
+
+	content: "\1f4e6" !important;
+
+}
+
+
+
+.wc_actions .fraktjakt-view-shipment:after {	
+
+	content: "\1f50d" !important;
+
+}
+
+.woocommerce ul#shipping_method li label {
+	font-weight:normal;
+    	display: inline !important;
+}
+
+.woocommerce ul#shipping_method li label .woocommerce-Price-amount.amount {
+	display:block;
+	font-weight:bold;
+	padding:0 0 10px;
+	text-align:right;
+}
+
+.shipping th {
+	vertical-align:top;
+}
