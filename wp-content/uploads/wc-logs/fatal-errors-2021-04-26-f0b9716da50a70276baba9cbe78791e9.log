@@ -1,0 +1,2 @@
+2021-04-26T09:40:12+00:00 CRITICAL syntax error, unexpected 'do_action' (T_STRING), expecting ';' or ',' in C:\MAMP\htdocs\Susans-E-handel\wp-content\plugins\woocommerce\templates\content-product.php on line 66
+

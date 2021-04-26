@@ -1,0 +1,4 @@
+2021-04-25T09:26:50+00:00 CRITICAL syntax error, unexpected '}' in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\twentytwentyone-child\functions.php on line 14
+
+2021-04-25T10:19:42+00:00 CRITICAL syntax error, unexpected 'wp_nav_menu' (T_STRING) in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\twentytwentyone-child\header.php on line 30
+
