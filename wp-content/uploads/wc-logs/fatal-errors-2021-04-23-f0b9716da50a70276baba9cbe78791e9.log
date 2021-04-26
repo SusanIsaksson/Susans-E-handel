@@ -1,0 +1,120 @@
+2021-04-23T08:36:01+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\themes.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T08:36:25+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\themes.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:22+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\themes.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:24+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\index.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:25+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:26+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\nav-menus.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:27+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\nav-menus.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:28+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\nav-menus.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:29+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\post.php(12): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:29+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\edit.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:02:29+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\post.php(12): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-e-shop-child\functions.php on line 3
+
+2021-04-23T09:12:26+00:00 CRITICAL Uncaught Error: Call to undefined function add_them_support() in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-woocommerce-theme\functions.php:3
+Stack trace:
+#0 C:\MAMP\htdocs\Susans-E-handel\wp-settings.php(528): include()
+#1 C:\MAMP\htdocs\Susans-E-handel\wp-config.php(90): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\Susans-E-handel\wp-load.php(37): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\Susans-E-handel\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Susans-E-handel\wp-admin\themes.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\Susans-E-handel\wp-content\themes\susan-woocommerce-theme\functions.php on line 3
+
